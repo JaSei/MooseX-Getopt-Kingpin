@@ -56,6 +56,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/avast/MooseX-Getopt-Kingpin/issues"
+      },
+      "homepage" : "https://github.com/avast/MooseX-Getopt-Kingpin",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/avast/MooseX-Getopt-Kingpin.git",
+         "web" : "https://github.com/avast/MooseX-Getopt-Kingpin"
+      }
+   },
    "version" : "0.1.0",
    "x_authority" : "cpan:JASEI",
    "x_serialization_backend" : "JSON::PP version 2.27400"
