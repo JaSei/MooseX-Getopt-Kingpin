@@ -3,13 +3,14 @@ use Moose::Role;
 
 use Safe::Isa;
 
-our $VERSION = '0.1.0';
+our $VERSION = '0.1.1';
 
 =head1 NAME
 
 MooseX::Getopt::Kingpin - A Moose role for processing command lines options via Getopt::Kingpin
 
 =head1 SYNOPSIS
+
     ### In your class
     package MyClass {
         use Moose;

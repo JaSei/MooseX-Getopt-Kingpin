@@ -3,6 +3,7 @@
 MooseX::Getopt::Kingpin - A Moose role for processing command lines options via Getopt::Kingpin
 
 # SYNOPSIS
+
     ### In your class
     package MyClass {
         use Moose;
