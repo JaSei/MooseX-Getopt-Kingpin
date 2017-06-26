@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/avast/MooseX-Getopt-Kingpin.svg?branch=master)](https://travis-ci.org/avast/MooseX-Getopt-Kingpin)
 # NAME
 
 MooseX::Getopt::Kingpin - A Moose role for processing command lines options via Getopt::Kingpin

@@ -3,7 +3,7 @@ use Moose::Role;
 
 use Safe::Isa;
 
-our $VERSION = '0.1.1';
+our $VERSION = '0.1.2';
 
 =head1 NAME
 
